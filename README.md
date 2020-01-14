@@ -1,4 +1,4 @@
-# Currently a static website of the game
+- Currently a static website of the game
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
